@@ -1,0 +1,37 @@
+{
+  "name": "hiless",
+  "description": "The LESS syntax highlighter.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/less/hiless",
+  "author": {
+    "name": "Alexis Sellier",
+    "url": "https://github.com/cloudhead"
+  },
+  "contributors": [
+    {
+      "name": "Jon Schlinkert",
+      "url": "https://github.com/jonschlinkert"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/less/hiless.git"
+  },
+  "bugs": {
+    "url": "https://github.com/less/hiless/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/less/hiless/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "less",
+    "css",
+    "less.js",
+    "highlighter",
+    "syntax highlighter",
+    "code highlighter"
+  ]
+}
